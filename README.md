@@ -2,7 +2,7 @@
 
 To the designers who went freelance, and dove into programming with an emphasis on design and front end development.  This is for you.
 
-This is a repository to support a series of blog posts at [Coffeencoke's Blog](https://coffeencoke.com).
+This is a repository to support a series of blog posts at [Coffeencoke's Blog](http://coffeencoke.com/blog/2013/10/25/dear-web-design-freelancer/).
 
 My goal, is to produce several tutorials and building blocks to improve your workflow.  Who am I?  I am a senior software engineer, who loves a beautiful user experience, and appreciates what you do.  I just want to give you some tools, that you may, or may not, have had exposure to yet, and will improve your enjoyment of work -- hopefully :)
 
