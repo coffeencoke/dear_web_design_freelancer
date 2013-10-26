@@ -20,6 +20,17 @@ I wish to provide you with three examples for a series of topics.  If you commit
 
 These are my five topics thus far, if you have other topics that you wish to see, please let me know.
 
+### Extras
+
+Extras that I don't want to commit to right now are
+
+* SASS and HAML
+* Coffeescript
+* Javascript Testing
+* Object Oriented Javascript
+* Designing with a Grid
+* Compass
+
 # Contributions
 
 View the CONTRIBUTING.md file for details.
