@@ -30,6 +30,8 @@ Extras that I don't want to commit to right now are
 * Object Oriented Javascript
 * Designing with a Grid
 * Compass
+* Cloud Servers
+* SSL Certificates
 
 # Contributions
 
